@@ -4,6 +4,7 @@
  
 Features :
 ->Local file upload option provided.
+
 ->Included crop functionality toi application so as to maximize productivity of user.
 
 
