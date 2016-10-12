@@ -12,4 +12,4 @@ Features :
 --> I have considered that user is uploading an image just an single image per text area.
 --> Feel free to make changes to my code to help others.
 
-# GREETINGS FROM INDIA
+GREETINGS FROM INDIA
