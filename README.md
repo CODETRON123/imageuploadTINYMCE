@@ -8,6 +8,8 @@ Features :
 
 ->Included crop functionality toi application so as to maximize productivity of user.
 
+->Added view to view uploaded images from database here I am just storing paths of images in database.
+
 
 
 # NOTE: 
