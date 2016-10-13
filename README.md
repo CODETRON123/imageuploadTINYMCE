@@ -15,6 +15,10 @@ Features :
 # NOTE: 
 --> I have considered that user is uploading an image just an single image per text area.
 
+--> Java version-1.7+ and tomcat 8.x drivers for mysql and jstl are included in project.
+
+--> Deleted classes from project as I am making frequent changes to project.
+
 --> Feel free to make changes to my code to help others.
 
 GREETINGS FROM MARS
