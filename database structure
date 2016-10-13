@@ -1,0 +1,6 @@
+# database structure
+
+database : tinymcedemo
+table : pathtable
+rows : id(primary-key and autoincrement)
+path(text)
